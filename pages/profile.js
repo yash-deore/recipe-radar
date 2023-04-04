@@ -11,7 +11,6 @@ export default function Profile() {
       marginTop: "2rem",
     },
   }));
-
   const { classes } = useStyles();
 
   return (
