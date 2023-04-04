@@ -2,7 +2,7 @@ import { UserProfile } from "@/components/user-profile";
 import React from "react";
 import { createStyles } from "@mantine/core";
 
-export default function profile() {
+export default function Profile() {
   const useStyles = createStyles(() => ({
     wrapper: {
       display: "flex",
